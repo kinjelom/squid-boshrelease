@@ -1,7 +1,7 @@
 ---
-name: squid
-dependencies: []
+name: squid_exporter
+
 files:
   - meta-info/blobs-versions.env
   - common/utils.sh
-  - squid/*
+  - squid_exporter/*
